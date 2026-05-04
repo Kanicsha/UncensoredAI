@@ -1,0 +1,10 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+`torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights:   9%|9         | 27/290 [00:00<00:01, 255.11it/s]Loading weights:  20%|##        | 59/290 [00:00<00:00, 269.10it/s]Loading weights:  34%|###4      | 99/290 [00:00<00:00, 322.17it/s]Loading weights:  46%|####5     | 132/290 [00:00<00:00, 248.88it/s]Loading weights:  55%|#####4    | 159/290 [00:00<00:00, 252.79it/s]Loading weights:  67%|######6   | 193/290 [00:00<00:00, 274.30it/s]Loading weights:  77%|#######6  | 222/290 [00:00<00:00, 259.79it/s]Loading weights:  88%|########7 | 255/290 [00:00<00:00, 271.79it/s]Loading weights:  98%|#########7| 283/290 [00:01<00:00, 249.68it/s]Loading weights: 100%|##########| 290/290 [00:01<00:00, 266.04it/s]
+C:\Users\Kanicsha Raju Venkat\Downloads\gemma-cooking-final\chat_interface.py:283: UserWarning: The parameters have been moved from the Blocks constructor to the launch() method in Gradio 6.0: theme, css. Please pass these parameters to launch() instead.
+  with gr.Blocks(
+forrtl: error (200): program aborting due to window-CLOSE event
+Image              PC                Routine            Line        Source             
+KERNELBASE.dll     00007FFC24B6A3CD  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FFC2585E8D7  Unknown               Unknown  Unknown
+ntdll.dll          00007FFC2730C3FC  Unknown               Unknown  Unknown

@@ -1,0 +1,5 @@
+Running without adapter: base model only.
+HF token not provided. Attempting to load with local cache or public access.
+Loading model and adapter. This can take a few minutes...
+CUDA not detected. Loading on CPU (this can be slow).
+Model ready.
